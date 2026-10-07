@@ -17,7 +17,7 @@
 ### 🚀 About Me
 - 🔭 Currently working at **TM Exports** & running **Ammar's Studio**
 - 🌱 Learning at **Jinnah Polytechnic Institute**
-- 🎨 Expert in Branding, Custom Gifts, Designing & Printing
+- 🎨 Expert in Branding, Customize Gifts, Designing & Printing
 - 💬 Ask me about **Graphic Designing, Photoshop, Illustrator, Figma**
 - 📫 Reach me at **imammarshah@outlook.com**
 
