@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ammar Shah</h1>
-<h3 align="center"> 👋 Hi there! I'm Ammar Shah,
-A Passionate Graphic Designer 🎨
+<h1 align="center">👋 Hi there! I'm Ammar Shah</h1>
+<h3 align="center">A Passionate Graphic Designer 🎨
 Digital Marketer | Art to Creation ✍🏻
 Connected 👇 </h3>
 
