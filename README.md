@@ -9,9 +9,9 @@ Connected 👇 </h3>
 
 - 🌱 I’m currently learning **Jinnah Polytechnic Institute**
 
-- 💬 Ask me about **Graphic Designer 🎨 </>**
+- 💬 Ask me about **Graphic Designer 🎨**
 
-- 📫 How to reach me **imammarshah@gmail.com**
+- 📫 How to reach me **imammarshah@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
