@@ -1,26 +1,32 @@
-<h1 align="center">👋 Hi there! I'm Ammar Shah</h1>
-<h3 align="center">A Passionate Graphic Designer 🎨
-Digital Marketer | Art to Creation ✍🏻
-Connected 👇 </h3>
+<h1 align="center">👋 Hi, I'm Ammar Shah</h1>
+<h3 align="center">Graphic Designer 🎨 | Digital Marketer | Founder of Ammar's Studio</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imammarshah&label=Profile%20views&color=0e75b6&style=flat" alt="imammarshah" /> </p>
-
-- 🔭 I’m currently working on **ASTech Solutions**
-
-- 🌱 I’m currently learning **Jinnah Polytechnic Institute**
-
-- 💬 Ask me about **Graphic Designer 🎨**
-
-- 📫 How to reach me **imammarshah@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/imammarshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="imammarshah" height="30" width="40" /></a>
-<a href="https://instagram.com/imammarshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imammarshah" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Art+to+Creation+%E2%9C%8D%EF%B8%8F;Passionate+Graphic+Designer;Custom+Gifts+%26+Branding+Expert" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=imammarshah&label=Profile%20views&color=0e75b6&style=flat" alt="imammarshah" /> 
+  <a href="mailto:imammarshah@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://fb.com/imammarshah"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/imammarshah"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imammarshah&show_icons=true&locale=en&layout=compact" alt="imammarshah" /></p>
+---
 
+### 🚀 About Me
+- 🔭 Currently working at **ASTech Solutions** & running **Ammar's Studio**
+- 🌱 Learning at **Jinnah Polytechnic Institute**
+- 🎨 Expert in Branding, Custom Gifts, Printing & UI/UX
+- 💬 Ask me about **Graphic Design, Photoshop, Illustrator, Figma**
+- 📫 Reach me at **imammarshah@outlook.com**
+
+### 🛠️ Languages and Tools
+<p align="left">
+<img src="https://skillicons.dev/icons?i=ps,ai,figma,html,css,js,ts,tailwind,php,python,java" />
+</p>
+
+### 📊 GitHub Stats
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imammarshah&show_icons=true&theme=tokyonight" alt="stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imammarshah&
