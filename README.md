@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ammar Shah</h1>
-<h3 align="center">Graphic Designer 🎨 | Digital Marketer | Founder of ASTech Solutions</h3>
+<h3 align="center">Graphic Designer 🎨 | Digital Marketer | Founder of Ammar's Studio</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Art+to+Creation+%E2%9C%8D%EF%B8%8F;Passionate+Graphic+Designer; Custom+Gifts+%26+Branding+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Art+to+Creation+%E2%9C%8D%EF%B8%8F;Passionate+Graphic+Designer;Custom+Gifts+%26+Branding+Expert" alt="Typing SVG" />
 </p>
 
 <p align="center"> 
@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **TM Exports** & running **Ammar's Studio**
+- 🔭 Currently working at **ASTech Solutions** & running **Ammar's Studio**
 - 🌱 Learning at **Jinnah Polytechnic Institute**
-- 🎨 Expert in Branding, Customize Gifts, Designing & Printing
-- 💬 Ask me about **Graphic Designing, Photoshop, Illustrator, Figma**
+- 🎨 Expert in Branding, Custom Gifts, Printing & UI/UX
+- 💬 Ask me about **Graphic Design, Photoshop, Illustrator, Figma**
 - 📫 Reach me at **imammarshah@outlook.com**
 
 ### 🛠️ Languages and Tools
