@@ -15,10 +15,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently working at **ASTech Solutions** & running **Ammar's Studio**
+- 🔭 Currently working at **TM Exports** & running **Ammar's Studio**
 - 🌱 Learning at **Jinnah Polytechnic Institute**
-- 🎨 Expert in Branding, Custom Gifts, Printing & UI/UX
-- 💬 Ask me about **Graphic Design, Photoshop, Illustrator, Figma**
+- 🎨 Expert in Branding, Custom Gifts, Designing & Printing
+- 💬 Ask me about **Graphic Designing, Photoshop, Illustrator, Figma**
 - 📫 Reach me at **imammarshah@outlook.com**
 
 ### 🛠️ Languages and Tools
